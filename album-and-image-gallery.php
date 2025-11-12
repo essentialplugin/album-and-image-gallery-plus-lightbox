@@ -6,7 +6,7 @@
  * Author: Essential Plugin
  * Text Domain: album-and-image-gallery-plus-lightbox
  * Domain Path: /languages/
- * Version: 2.1.5
+ * Version: 2.1.6
  * Author URI: https://www.essentialplugin.com
  *
  * @package Album and Image Gallery Plus Lightbox
@@ -22,8 +22,8 @@ if ( ! defined( 'ABSPATH' ) ) {
  * 
  * @since 1.0.0
  */
-if( ! defined( 'AIGPL_VERSION' ) ) {
-	define( 'AIGPL_VERSION', '2.1.5' ); // Version of plugin
+if ( ! defined( 'AIGPL_VERSION' ) ) {
+	define( 'AIGPL_VERSION', '2.1.6' ); // Version of plugin
 }
 
 if( ! defined( 'AIGPL_DIR' ) ) {
