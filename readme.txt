@@ -3,7 +3,7 @@ Contributors: essentialplugin
 Tags: album slider, magnific-popup, fancybox popup, image gallery slider, responsive gallery
 Requires at least: 4.0
 Tested up to: 6.8.3
-Stable tag: 2.1.6
+Stable tag: 2.1.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -209,6 +209,9 @@ Where limit define the number of posts to display.
 5. Also work with Gutenberg shortcode block.
 
 == Changelog ==
+
+= 2.1.7 (17, Nov 2025) =
+* [*] Fixed code conflict issue affecting widget saving.
 
 = 2.1.6 (12, Nov 2025) =
 * [*] Check compatibility with WordPress version 6.8.3
